@@ -1,11 +1,11 @@
 # Plataforma Web - Fintech
 ## Marco Antonio Pereira Esteves - RM99179
 
-[Imgur](https://imgur.com/IdJODpS)
+![print home](https://github.com/comar80/fintech-web/blob/master/images/Print%20Home.png)
 
-[Imgur](https://imgur.com/fHU8Kua)
+![print receita]([https://imgur.com/fHU8Kua](https://github.com/comar80/fintech-web/blob/master/images/Print%20Receita.png))
 
-[Imgur](https://imgur.com/XL4bzKx)
+![print despesa](https://github.com/comar80/fintech-web/blob/master/images/Print%20Despesa.png)
 
-![gif com funcionalidades](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2F1NWJoM3RsMW1oMGd4cGs0NGY0aWJ0ZWYzaDg1ZHpqN2xqMmoxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zWEm1N39TskjdQyBk/giphy.gif)
+![gif com funcionalidades](https://github.com/comar80/fintech-web/blob/master/images/Gif%20Funcionalidades.gif)
 
