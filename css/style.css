@@ -104,3 +104,15 @@ a:hover {
 .form-check-input:checked {
     background-color: var(--text-color);
 }
+
+#submit {
+    border: none;
+    background-color: var(--bg-main);
+}
+
+#remove {
+    border: none;
+    background-color: var(--bg-main);
+    color: var(--text-color);
+    margin-top: -15px;
+}
